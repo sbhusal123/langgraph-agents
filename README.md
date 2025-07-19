@@ -30,7 +30,9 @@
 
     Agent with sequential flow.
 
+- [Agent 3](./Samples/Agent%203%20-%20Conditional%20graph.ipynb)
 
+    Agent with conditional edges.
 
 
 ## Some Reference Codes:
@@ -41,4 +43,12 @@
 from IPython.display import Image, display
 
 display(Image(app.get_graph().draw_mermaid_png()))
+```
+
+```python
+from IPython.display import display, Markdown
+
+mermaid_code = agent.get_graph().draw_mermaid()
+display(Markdown(f"```mermaid\n{mermaid_code}\n```"))
+
 ```
