@@ -26,6 +26,11 @@
 
     Accepts a list of input and returns a sum through a node.
 
+- [Agent 2](./Samples/Agent%202%20-%20Sequential%20Flow.ipynb)
+
+    Agent with sequential flow.
+
+
 
 
 ## Some Reference Codes:
