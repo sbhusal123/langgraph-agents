@@ -43,13 +43,11 @@ Agent with loopings nodes.
 
 This section consists of sample agents built with ollama local models.
 
-- [Simple Chat Bot](./MiniAgents/)
+- [AI Agent 1](./MiniAgents/AI%20Agent%201%20-%20Chatbot.ipynb)
 Simple Integration of stategraph with LLM. Simple ChatBot Without Memory
 
-- [Converstational Chat Bot](./MiniAgents/)
+- [AI Agent 2](./MiniAgents/AI%20Agent%202%20-%20Converstational%20Chatbot.ipynb)
 Converstational chatbot with memory.
-
-
 
 
 
