@@ -34,6 +34,9 @@
 
     Agent with conditional edges.
 
+- [Agent 4](./Samples/Aget4%20-%20Merge%20Flow.ipynb)
+    Agent with multiple conditional edges and merge flow.
+
 
 ## Some Reference Codes:
 
