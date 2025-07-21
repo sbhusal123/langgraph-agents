@@ -52,8 +52,11 @@ Converstational chatbot with memory.
 - [AI Agent 3](./MiniAgents/AI%20Agent%203%20-%20React%20Agent.ipynb)
 React Agent with toolcall.
 
+## 4. Hows and Concepts:
 
-## 4. Some Reference Codes:
+- [How Toolcalling Works](./Concepts/How%20Toolcall%20Works.ipynb)
+
+## 5. Some Reference Codes:
 
 **Display graph as PNG**
 
