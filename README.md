@@ -49,6 +49,8 @@ Simple Integration of stategraph with LLM. Simple ChatBot Without Memory
 - [AI Agent 2](./MiniAgents/AI%20Agent%202%20-%20Converstational%20Chatbot.ipynb)
 Converstational chatbot with memory.
 
+- [AI Agent 3](./MiniAgents/AI%20Agent%203%20-%20React%20Agent.ipynb)
+React Agent with toolcall.
 
 
 ## 4. Some Reference Codes:
