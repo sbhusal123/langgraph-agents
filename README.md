@@ -16,13 +16,15 @@
     - Graph
     - Tool
     - ToolNode
-    - StateGraph
+    - [StateGraph](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
     - Runnable
     - Message
 
 ## Sample Agents (Reference):
 
-- [Agent 1](./Samples/Agent1%20-%20L1.ipynb)
+Sample agents build with different flow. [Langchain Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
+
+- [Agent 1](./Samples/Agent%201%20-%20L1.ipynb)
 
     Accepts a list of input and returns a sum through a node.
 
@@ -34,8 +36,11 @@
 
     Agent with conditional edges.
 
-- [Agent 4](./Samples/Aget4%20-%20Merge%20Flow.ipynb)
+- [Agent 4](./Samples/Agent%204%20-%20Merge%20Flow.ipynb)
     Agent with multiple conditional edges and merge flow.
+
+- [Agent 5](./Samples/Agent%205%20-%20Looping.ipynb)
+    Agent with loopings nodes.
 
 
 ## Some Reference Codes:
