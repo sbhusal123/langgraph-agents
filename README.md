@@ -24,33 +24,30 @@
 
 Sample agents build with different flow. [Langchain Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
 
-- [Agent 1](./Samples/Agent%201%20-%20L1.ipynb)
-
-    Accepts a list of input and returns a sum through a node.
+- [Agent 1](./Samples/Agent%201%20-%20L1.ipynb) 
+Accepts a list of input and returns a sum through a node.
 
 - [Agent 2](./Samples/Agent%202%20-%20Sequential%20Flow.ipynb)
-
-    Agent with sequential flow.
+Agent with sequential flow.
 
 - [Agent 3](./Samples/Agent%203%20-%20Conditional%20graph.ipynb)
-
-    Agent with conditional edges.
+Agent with conditional edges.
 
 - [Agent 4](./Samples/Agent%204%20-%20Merge%20Flow.ipynb)
-    Agent with multiple conditional edges and merge flow.
+Agent with multiple conditional edges and merge flow.
 
 - [Agent 5](./Samples/Agent%205%20-%20Looping.ipynb)
-    Agent with loopings nodes.
+Agent with loopings nodes.
 
 ## 3. Sample Agents With Tools And LLM:
 
 This section consists of sample agents built with ollama local models.
 
 - [Simple Chat Bot](./MiniAgents/)
-    Simple Integration of stategraph with LLM. Simple ChatBot Without Memory
+Simple Integration of stategraph with LLM. Simple ChatBot Without Memory
 
 - [Converstational Chat Bot](./MiniAgents/)
-    Converstational chatbot with memory.
+Converstational chatbot with memory.
 
 
 
