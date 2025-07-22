@@ -52,6 +52,9 @@ Converstational chatbot with memory.
 - [AI Agent 3](./MiniAgents/AI%20Agent%203%20-%20React%20Agent.ipynb)
 React Agent with toolcall.
 
+- [AI Agent 4](./MiniAgents/AI%20Agent%204%20-%20Email%20Drafter.ipynb)
+Email drafter helper.
+
 ## 4. Hows and Concepts:
 
 - [How Toolcalling Works](./Concepts/How%20Toolcall%20Works.ipynb)
