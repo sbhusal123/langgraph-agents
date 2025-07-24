@@ -3,11 +3,15 @@
 
 ## 1. Prequisits:
 
-- [Type Annotations](./Pre%20Reqs/1.%20Type%20Annotations.ipynb)
+- [Type Annotations](./Pre%20Reqs/1.%20Typing.ipynb)
     - TypedDict
     - Union
     - Optional
-    - Annotated (WIP...)
+    - Annotated
+    - Sequence
+    - How langgraph uses annotated, sequence and add_message reducer.
+        - BaseMessage types
+        - Usage with and without reducer
 
 - [Lambda, Maps](./Pre%20Reqs/2.%20Lambda,%20Map.ipynb)
 
