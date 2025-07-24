@@ -77,7 +77,7 @@
 
 ## 2. Graph Based Architecture Intro (Reference):
 
-Sample agents build with different flow. [Langchain Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
+Sample agents build with different flow. [Langgraph Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
 
 - [Agent 1](./Samples/Agent%201%20-%20L1.ipynb) 
 Accepts a list of input and returns a sum through a node.
