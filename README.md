@@ -1,7 +1,6 @@
 # Langgraph Complete Course:
 
 
-
 ## 1. Prequisits:
 
 - [Type Annotations](./Pre%20Reqs/1.%20Type%20Annotations.ipynb)
@@ -72,7 +71,7 @@
     - [WIP...]()
 
 
-## 2. Sample Agents (Reference):
+## 2. Graph Based Architecture Intro (Reference):
 
 Sample agents build with different flow. [Langchain Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
 
@@ -91,7 +90,7 @@ Agent with multiple conditional edges and merge flow.
 - [Agent 5](./Samples/Agent%205%20-%20Looping.ipynb)
 Agent with loopings nodes.
 
-## 3. Sample Agents With Tools And LLM:
+## 3. Sample Agents With Tools And LLM: (AI Agents)
 
 This section consists of sample agents built with ollama local models.
 
