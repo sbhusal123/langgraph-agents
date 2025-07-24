@@ -113,7 +113,12 @@ Email drafter helper.
 
 - [How Toolcalling Works](./Concepts/How%20Toolcall%20Works.ipynb)
 
-## 5. Some Reference Codes:
+
+## 5. Insights And Architecture:
+
+- [Agenic Workflow](./Architecture,%20Insights/Agentic%20Workflow.ipynb)
+
+## 6. Some Reference Codes:
 
 **Display graph as PNG**
 
