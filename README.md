@@ -77,7 +77,7 @@
 
 ## 2. Graph Based Architecture Intro (Reference):
 
-Sample agents build with different flow. [Langgraph Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
+Sample agents build with different flow. [Langgraph StateGrapg Docs...](https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph)
 
 - [Agent 1](./Samples/Agent%201%20-%20L1.ipynb) 
 Accepts a list of input and returns a sum through a node.
@@ -137,4 +137,11 @@ from IPython.display import display, Markdown
 mermaid_code = agent.get_graph().draw_mermaid()
 display(Markdown(f"```mermaid\n{mermaid_code}\n```"))
 
+```
+
+**Pretty Print Dictionary: **
+```python
+from pprint import pprint
+
+pprint(result)
 ```
