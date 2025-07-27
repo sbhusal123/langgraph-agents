@@ -4,6 +4,7 @@ jupyter==1.1.1
 # lamgchain
 langchain==0.3.26
 langgraph==0.5.3
+langchain[google-genai]
 
 # langchain
 langchain_ollama==0.3.5
@@ -12,6 +13,7 @@ langchain-community==0.3.27
 
 # utils
 pymupdf==1.26.3
+pypdf==5.8.0
 
 
 # fastapi

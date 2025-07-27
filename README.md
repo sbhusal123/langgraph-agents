@@ -139,7 +139,7 @@ display(Markdown(f"```mermaid\n{mermaid_code}\n```"))
 
 ```
 
-**Pretty Print Dictionary: **
+**Pretty Print Dictionary:**
 ```python
 from pprint import pprint
 
