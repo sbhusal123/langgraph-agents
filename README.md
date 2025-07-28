@@ -94,7 +94,7 @@ Agent with multiple conditional edges and merge flow.
 - [Agent 5](./Samples/Agent%205%20-%20Looping.ipynb)
 Agent with loopings nodes.
 
-- [Agent 6](./Samples/Agent%206%20-%20Parallel%20Execution.ipynb) Parallel execution and merge.
+- [Agent 6](./Samples/Agent%206%20-%20Parallel%20Execution.ipynb) Parallel execution nodes and merge.
 
 ## 3. Sample Agents With Tools And LLM: (AI Agents)
 
